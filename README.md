@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanchanlakhlan
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently pursuing "MSc data analytics" from Queen Mary, University of London.
+- 🌱 I’m currently working as DAta Engineer at MasterCard, London.
 
 
 <!---
