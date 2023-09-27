@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanchanlakhlan
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently working as DAta Engineer at MasterCard, London.
+- 👀 I’m interested in Data Engineering, Data Science and Machine Learning
+- 🌱 I’m currently working as Data Engineer at MasterCard, London.
 
 
 <!---
